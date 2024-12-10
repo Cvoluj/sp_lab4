@@ -1,0 +1,3 @@
+D:\sp_lab4_vs\lab4\x64\Debug\gtest.pdb
+D:\sp_lab4_vs\lab4\x64\Debug\gtest_main.pdb
+D:\sp_lab4_vs\lab4\test_repos\x64\Debug\test_rep.A9F5781E.Up2Date

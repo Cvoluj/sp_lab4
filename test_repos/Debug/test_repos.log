@@ -1,0 +1,13 @@
+﻿  test.cpp
+D:\sp_lab4_vs\lab4\sort.h(24,16): error C3861: strcmpp: идентификатор не найден
+  (компиляция исходного файла "/test.cpp")
+  
+D:\sp_lab4_vs\lab4\sort.h(28,16): error C3861: strcmpp: идентификатор не найден
+  (компиляция исходного файла "/test.cpp")
+  
+D:\sp_lab4_vs\lab4\stringProcessor.h(10,34): warning C4114: Множественное использование одного и того же квалификатора типа.
+  (компиляция исходного файла "/test.cpp")
+  
+D:\sp_lab4_vs\lab4\stringProcessor.h(17,18): error C3861: strlenn: идентификатор не найден
+  (компиляция исходного файла "/test.cpp")
+  

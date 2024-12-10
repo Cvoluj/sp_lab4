@@ -1,0 +1,10 @@
+﻿  test.cpp
+D:\sp_lab4_vs\lab4\stringProcessor.h(9,34): warning C4114: Множественное использование одного и того же квалификатора типа.
+  (компиляция исходного файла "/test.cpp")
+  
+D:\sp_lab4_vs\lab4\stringProcessor.h(16,18): error C3861: strlenn: идентификатор не найден
+  (компиляция исходного файла "/test.cpp")
+  
+D:\sp_lab4_vs\lab4\stringProcessor.h(148,17): error C3861: quick_sort: идентификатор не найден
+  (компиляция исходного файла "/test.cpp")
+  
