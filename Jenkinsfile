@@ -25,11 +25,8 @@ pipeline {
     always {
         // Publish test results using the junit step
         // Specify the path to the XML test result files
-        xunit(
-                    tools: [
-                        junit('test_report.xml')
-                    ]
-                )
+        junit('test_report.xml')
+
     }
 }
 }
