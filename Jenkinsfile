@@ -27,7 +27,7 @@ pipeline {
         // Specify the path to the XML test result files
         xunit(
                     tools: [
-                        junit('**/test-report.xml')
+                        junit('test-report.xml')
                     ]
                 )
     }
